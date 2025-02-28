@@ -1,0 +1,25 @@
+GNU GENERAL PUBLIC LICENSE 
+Version 3, 29 June 2007
+
+Copyright (C) [2025] [Zaid O'Donovan]  
+Everyone is permitted to copy, distribute, and modify verbatim copies of this license document.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see <www.gnu.org/licenses>.
+
+----------------------------------------------
+**Ethical Use Disclaimer:**  
+This tool is for educational and ethical penetration testing purposes only. Unauthorised use on systems you do not own or have explicit permission to test is illegal. The developer is not responsible for any misuse. Always follow legal and ethical guidelines when using this tool.
+
+----------------------------------------------
+**How to Use:**
+For instructions on how to use this tool for ethical penetration testing, please refer to the README file in this repository.
+
+**Disclaimer:**
+By using this tool, you agree to use it solely for educational and ethical purposes. Any unauthorized use is the responsibility of the user.
+
+**Contact:**
+For any questions or concerns, please contact [ZaydZOD@proton.me].
