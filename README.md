@@ -27,7 +27,7 @@ cutie hacker program for ethical penetration testing and educational purposes, d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/divided099/ethical-instagram-pentest.git
+   git clone https://github.com/divided099/instagOwO.git
    ```
 
 2. Install the required dependencies:
