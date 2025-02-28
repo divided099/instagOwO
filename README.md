@@ -52,12 +52,24 @@ cutie hacker program for ethical penetration testing and educational purposes, d
 
 ---
 
-## **Support**
+## **Support and additional**
 
 If you have any questions or need help, feel free to open an issue on this repository or directly reach out to me through email, discord, telegram.
 ![be4ce376b6d5f9d7abbf2dfebf72930b](https://github.com/user-attachments/assets/9e676948-9148-4523-9ae5-b075de870d84)
 
 or simply just join the discord server lol: https://discord.gg/6MdgHjbyYh
+
+Consider supporting me UwU: https://zayd099.carrd.co/#sendmemoney
+you can also dm me on discord for projects similar to this, and i might make it for you, for the right price:3
+
+---
+
+## **Contributing**
+
+1. Fork the repo.
+2. Make your changes.
+3. Create a pull request.
+![074dc227a1767bacb43ebccb811f87fc](https://github.com/user-attachments/assets/08ce69c5-7826-456f-b6c7-85f25bedc42c)
 
 ---
 
@@ -93,15 +105,6 @@ This tool is designed for educational purposes and ethical penetration testing. 
 ## **License**
 
 This project is licensed under the **GNU General Public License v3.0**. See the `LICENSE.txt` `LICENSE-2.txt` files for more details.
-
----
-
-## **Contributing**
-
-1. Fork the repo.
-2. Make your changes.
-3. Create a pull request.
-![074dc227a1767bacb43ebccb811f87fc](https://github.com/user-attachments/assets/08ce69c5-7826-456f-b6c7-85f25bedc42c)
 
 ---
 
