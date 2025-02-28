@@ -1,6 +1,7 @@
 # **😱😱instagOwO**
 
 ![Preview2](https://github.com/user-attachments/assets/b0703377-e59d-4e80-b84f-3cc5a545e7fc)
+
 cutie hacker program for ethical penetration testing and educational purposes, designed to simulate an Instagram login page for security research. Use responsibly on systems you own or have explicit permission to test.
 
 ![a7db3530ed410ddde690c67ae1ef5bcb](https://github.com/user-attachments/assets/4133b49b-7146-4691-880d-1f22055ac0f5)
@@ -43,8 +44,8 @@ cutie hacker program for ethical penetration testing and educational purposes, d
    python3 run.py
    ```
 
-![Preview1](https://github.com/user-attachments/assets/8a515f87-6975-407c-be6a-082d2b92ba2d)
 
+![Preview1](https://github.com/user-attachments/assets/8a515f87-6975-407c-be6a-082d2b92ba2d)
 
 ---
 
