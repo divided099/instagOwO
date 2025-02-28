@@ -1,6 +1,7 @@
-# **😱😱ethical instagram pentest**
+# **😱😱instagOwO**
 
-A handy little program for ethical penetration testing and educational purposes, designed to simulate an Instagram login page for security research. Use responsibly on systems you own or have explicit permission to test.
+![Preview2](https://github.com/user-attachments/assets/b0703377-e59d-4e80-b84f-3cc5a545e7fc)
+cutie hacker program for ethical penetration testing and educational purposes, designed to simulate an Instagram login page for security research. Use responsibly on systems you own or have explicit permission to test.
 
 ![a7db3530ed410ddde690c67ae1ef5bcb](https://github.com/user-attachments/assets/4133b49b-7146-4691-880d-1f22055ac0f5)
 ![11954147_9e397](https://github.com/user-attachments/assets/eb0dd47e-0c82-4528-8fee-32c63ece25f9)
@@ -12,6 +13,8 @@ A handy little program for ethical penetration testing and educational purposes,
 - Simulates an Instagram login page for penetration testing.
 - Easily configurable backend with user-defined webhooks.
 - Written in Python for easy setup and use.
+- Looks cute.
+- Plays music on the developer end, DJ TURN IT UP!!
 
 ![Screenshot 2025-02-28 at 12 47 53](https://github.com/user-attachments/assets/1ea6ed24-fb6f-473b-b8d5-0fd29169c08d)
 ![IMG_6811](https://github.com/user-attachments/assets/7a011b21-8202-4fd6-8b78-02581701157a)
@@ -31,7 +34,7 @@ A handy little program for ethical penetration testing and educational purposes,
    pip install -r requirements.txt
    ```
 
-3. Configure your webhooks in the `run.py` (edit the file to your preferences).
+3. Configure your webhooks in the `webhooks.txt` (edit the file to your preferences).
 
 4. STAR THIS REPOSITORY🌟
 
@@ -39,6 +42,9 @@ A handy little program for ethical penetration testing and educational purposes,
    ```bash
    python3 run.py
    ```
+
+![Preview1](https://github.com/user-attachments/assets/8a515f87-6975-407c-be6a-082d2b92ba2d)
+
 
 ---
 
