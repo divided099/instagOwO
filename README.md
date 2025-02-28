@@ -1,4 +1,4 @@
-# **😱😱instagOwO**
+# **🌈🏳️‍⚧️instagOwO :3**
 
 ![Preview2](https://github.com/user-attachments/assets/b0703377-e59d-4e80-b84f-3cc5a545e7fc)
 
@@ -38,14 +38,26 @@ cutie hacker program for ethical penetration testing and educational purposes, d
 3. Configure your webhooks in the `webhooks.txt` (edit the file to your preferences).
 
 4. STAR THIS REPOSITORY🌟
+--- join the discord also: discord.gg/6MdgHjbyYh
 
-5. Run and let the magic🪄 begin (if your not a silly skiddy🙄):
+6. Run and let the magic🪄 begin (if your not a silly skiddy🙄):
    ```bash
    python3 run.py
    ```
 
 
 ![Preview1](https://github.com/user-attachments/assets/8a515f87-6975-407c-be6a-082d2b92ba2d)
+
+![Preview6](https://github.com/user-attachments/assets/57552224-d252-4163-b459-6f95ed333cf9)
+
+---
+
+## **Support**
+
+If you have any questions or need help, feel free to open an issue on this repository or directly reach out to me through email, discord, telegram.
+![be4ce376b6d5f9d7abbf2dfebf72930b](https://github.com/user-attachments/assets/9e676948-9148-4523-9ae5-b075de870d84)
+
+or simply just join the discord server lol: https://discord.gg/6MdgHjbyYh
 
 ---
 
@@ -90,13 +102,6 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 2. Make your changes.
 3. Create a pull request.
 ![074dc227a1767bacb43ebccb811f87fc](https://github.com/user-attachments/assets/08ce69c5-7826-456f-b6c7-85f25bedc42c)
-
----
-
-## **Support**
-
-If you have any questions or need help, feel free to open an issue on this repository or directly reach out to me through email, discord, telegram.
-![be4ce376b6d5f9d7abbf2dfebf72930b](https://github.com/user-attachments/assets/9e676948-9148-4523-9ae5-b075de870d84)
 
 ---
 
