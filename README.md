@@ -48,6 +48,8 @@ cutie hacker program for ethical penetration testing and educational purposes, d
 
 ![Preview1](https://github.com/user-attachments/assets/8a515f87-6975-407c-be6a-082d2b92ba2d)
 
+![Preview3](https://github.com/user-attachments/assets/6cc51728-2aca-4925-93ee-3df4878b02c4)
+
 ![Preview6](https://github.com/user-attachments/assets/57552224-d252-4163-b459-6f95ed333cf9)
 
 ---
