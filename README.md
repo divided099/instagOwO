@@ -32,7 +32,7 @@ cutie hacker program for ethical penetration testing and educational purposes, d
 
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. Configure your webhooks in the `webhooks.txt` (edit the file to your preferences).
