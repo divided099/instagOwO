@@ -106,12 +106,12 @@ This tool is designed for educational purposes and ethical penetration testing. 
 
 ## **License**
 
-This project is licensed under the **GNU General Public License v3.0**. See the `LICENSE.txt` `LICENSE-2.txt` files for more details.
+This project is licensed under the MIT License.
 
 ---
 
 ## **Legal**
 
-For legal inquiries or takedown requests, please contact me at ZaydZOD@proton.me.
+For legal inquiries or takedown requests, please contact me at @CantStopDivided@proton.me
 
 ---
